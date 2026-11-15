@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chandanav007.github.io/Chandana-Portfolio-/sitemap.xml
